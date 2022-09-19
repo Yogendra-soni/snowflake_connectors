@@ -3,9 +3,9 @@
 This Repository shows the different connector that can be used to connect snowflake.
 It hold the basic connectivity code to connect with snowflake.
 
-##Pythonc snowflake connector:
+## Pythonc snowflake connector:
 
-###Prerequisites:
+### Prerequisites:
 python 3.6 and above
 
 ### Install the Connector:
